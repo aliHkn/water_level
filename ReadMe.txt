@@ -1,4 +1,4 @@
-Sure, here is the English translation of your text:
+
 
 Today, I would like to share with you my latest project experience: designing a water level sensor. In this project, I created a highly effective water level sensor using the ULN2003A integrated circuit, and the results were truly satisfying. I want to share this experience with you and perhaps inspire others.
 
