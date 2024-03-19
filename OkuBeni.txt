@@ -1,0 +1,11 @@
+Bugün sizinle son proje deneyimimden bahsetmek istiyorum: su seviyesi sensörü tasarımı. Bu projede, ULN2003A entegresini kullanarak oldukça etkili bir su seviyesi sensörü oluşturdum ve sonuçlar gerçekten memnuniyet vericiydi. Sizlerle bu deneyimi paylaşmak ve belki de ilham vermek istiyorum.
+ULN2003A'nın genellikle sürücü devreleri veya step motor uygulamalarında kullanıldığını biliyor olabilirsiniz, ancak bu entegre, su seviyesi sensörleri gibi basit ama etkili elektronik projelerde de kullanılabilir. Ben de bu projemde ULN2003A'yı su seviyesi algılama amacıyla kullandım.
+Projenin temelinde, su seviyesini algılamak için bir dizi elektrot kullanmam gerekiyordu. Her elektrot, su seviyesinin belirli bir noktasını algılar ve bir sinyal üretir. ULN2003A, bu sinyalleri alarak uygun tepkileri oluşturmak için kullanıldı.
+Sonuç olarak, ULN2003A ile su seviyesi sensörü tasarlamak oldukça heyecan vericiydi ve sonuçlar gerçekten etkileyiciydi. Bu projede kazandığım deneyimleri ve öğrendiklerimi diğer mühendis ve hobi elektronikçileriyle paylaşmak benim için bir zevkti.
+Malzemeler
+Farklı uzunlukta kablolar
+1K Direnç  x7
+5mm farklı renklerde Led x7
+9v güç kaynağı
+Detaylı bilgiyi github adresimde bulabilirsiniz.
+
